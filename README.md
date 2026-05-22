@@ -1,16 +1,18 @@
 # Ludovico Luce
 
-**Quant Researcher** | PhD → Industry | London
+**Quant Researcher** | Derivatives · Volatility · Risk | London
 
-Transitioning from academic research into quantitative finance. Background in stochastic calculus, derivatives pricing, and econometric modelling. Building systematic, rigorous tools at the intersection of theory and markets.
+PhD in energy volatility. MSc Financial Engineering. Research and hands-on experience 
+across derivatives pricing, stochastic volatility modelling, and systematic risk 
+frameworks — from theory to production code.
 
 ---
 
-### Focus Areas
+### Focus
 
-- **Derivatives & Pricing** — BSM, stochastic volatility, risk-neutral valuation
-- **Risk Modelling** — market risk, tail risk, factor models
-- **Econometrics & Time Series** — regime switching, cointegration, volatility modelling
+- **Volatility & Derivatives** — stochastic vol, BSM extensions, risk-neutral pricing, vol surface construction
+- **Risk Modelling** — market risk, tail risk, factor models, P&L attribution
+- **Econometrics** — regime switching, cointegration, time series, energy markets
 
 ---
 
@@ -22,14 +24,20 @@ Transitioning from academic research into quantitative finance. Background in st
 
 ---
 
-### Currently
+### Research
 
-- 🎯 Seeking **Quant Research roles** in London
-- 📚 Expanding into ML applications for systematic strategies
-- 🔨 Open-sourcing research tools and pricing models
+- [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5810456) — working papers, volatility & energy markets  
+- [PhD Thesis](https://repository.essex.ac.uk/40456/) — University of Essex
+
+---
+
+### Open Source
+
+- 📐 Derivatives pricing and volatility modelling tools — see pinned repos
 
 ---
 
 ### Contact
 
-📩 [ludovico.luce.finance@gmail.com](mailto:ludovico.luce.finance@gmail.com)
+📩 [ludovico.luce.finance@gmail.com](mailto:ludovico.luce.finance@gmail.com)  
+🔗 Open to quant research and financial modelling roles in London
