@@ -1,4 +1,4 @@
-# Ludovico Luce
+# Ludovico Luce, PhD
 
 **Quant Researcher** | Derivatives · Volatility · Risk | London
 
